@@ -19,3 +19,7 @@ Remember: if you are using module-js
     npm install --save-dev jest @babel/plugin-transform-modules-commonjs
     ```
 - Done
+
+for more info
+`https://how-to.dev/how-to-set-up-jest-for-es-module`
+this doc
